@@ -1,0 +1,3 @@
+function smallestPalindrome(num){
+    let 
+}
