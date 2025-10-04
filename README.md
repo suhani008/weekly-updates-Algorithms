@@ -1,3 +1,15 @@
-##Weekly Update
-This is just a repo (ongoing) which contains Data Structure and Algorithm Questions and Answers in JavaScript.
-=> Covers all the possible Pen-Paper Questions which could be asked during an interview process in Campus Placement.
+# Weekly Update
+
+This is an ongoing repository that contains **Data Structure and Algorithm** questions and answers in **JavaScript**.
+
+---
+
+✅ Covers all the possible **pen-paper questions** that could be asked during the **campus placement interview process**.
+
+---
+
+📁 Folder: `weeklyupdate`
+
+🛠 Language: `JavaScript`
+
+📅 Updated: Weekly
